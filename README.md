@@ -6,8 +6,7 @@
 🚀 I'm looking to advance my skills in Machine Learning and Deep Learning. 
 
 <br> 😄 Pronouns: He/His<br>
-<br> 🎯 Status: Open to work full time Data Science and Data Analyst Roles. 
-<br> 📫 How to reach me: 
+<br> 🎯 Status: Open to work full time Data Science and Data Analyst Roles.
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
