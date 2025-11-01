@@ -1,12 +1,10 @@
 # Hi there 👋
 ## 💫 About Me:
 
-🔭 I'm currently working on Python projects in Web Scraping, Data Analysis, Machine Learning etc. 
-
-🚀 I'm looking to advance my skills in Machine Learning and Deep Learning. 
+🔭 I'm currently working on AI projects in Machine Learning, RAG, Deep Learning, NLP etc. 
 
 <br> 😄 Pronouns: He/His<br>
-<br> 🎯 Status: Open to work full time Data Science and Data Analyst Roles.
+
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
